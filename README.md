@@ -26,16 +26,18 @@ The challenges folder contains the challenges that we have to solve. The require
 The LICENSE file contains the license of the project.
 The README.md file is the file you are currently reading.
 ```
+├──resources
+│   ├──computer.jpg
+│   ├──cat.jpeg
+│   ├──circuito.jpeg
 ├──challenges
 │   ├──IBM_challenge_description.md
 ├──dataset
 │   ├──black.png
 │   ├──checkerboard.png
 │   ├──...
-├──resources
-│   ├──computer.jpg
-│   ├──cat.jpeg
-│   ├──circuito.jpeg
+├──docs
+│   ├──Hackaton_Quantum.pdf
 ├──src
 │   ├──qiskit.ipynb
 ├──.gitignore
